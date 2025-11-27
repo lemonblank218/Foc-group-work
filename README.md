@@ -1,4 +1,4 @@
 # Foc-group-work
-foc 小组代码快速同步平台
+存在问题：1。查重失败
 
 请用common 提交change
