@@ -1,5 +1,5 @@
-#ifndef MESSAGE_MANAGER_H
-#define MESSAGE_MANAGER_H
+#ifndef MESSAGE_H
+#define MESSAGE_H
 
 #define MAX_NAME 64
 #define MAX_MSG 256
